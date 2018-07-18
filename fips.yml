@@ -1,0 +1,6 @@
+#
+# fips-eigen
+#
+---
+exports:
+    header-dirs: [ eigen ]
