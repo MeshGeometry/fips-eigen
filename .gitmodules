@@ -1,5 +1,3 @@
 [submodule "eigen"]
 	path = eigen
-	url = https://github.com/libigl/eigen.git
-[submodule "eigne"]
 	url = https://github.com/eigenteam/eigen-git-mirror.git
