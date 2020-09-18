@@ -3,4 +3,5 @@
 #
 ---
 exports:
-    header-dirs: [ eigen ]
+    header-dirs: 
+        - eigen
